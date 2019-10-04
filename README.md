@@ -4,7 +4,7 @@ This is a sample Unity project that contains pixelate and selective pixelate sha
 ## Pixelate Shader
 ![pixelate](/ReadmeImages/allPixelate.png)
 
-This is a simple shader in which it pixelates the entire scene. Simply attach the _Pixelate_ script on to the Camera. You can refer to _pixelated_ scene. Since this pixelates the entire scene, you can use any material/ shader to the game objects in the scene.
+This is a simple shader in which it pixelates the entire scene. Simply attach the _Pixelate_ script on to the Camera. Since this pixelates the entire scene, you can use any material/ shader to the game objects in the scene. Refer to _pixelate_ scene for details.
 
 ## Selective Pixelate Shader
 ![selective pixelate](/ReadmeImages/selectivePixelate.png)

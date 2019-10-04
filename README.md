@@ -18,5 +18,5 @@ Refer to _selectivePixelated_ scene for more details.
 
 
 ### Reference
-https://www.youtube.com/watch?v=SMLbbi8oaO8&t=1s
-https://www.bitshiftprogrammer.com/2018/05/pixelation-shader-unity-implementation.html
+* https://www.youtube.com/watch?v=SMLbbi8oaO8&t=1s
+* https://www.bitshiftprogrammer.com/2018/05/pixelation-shader-unity-implementation.html
